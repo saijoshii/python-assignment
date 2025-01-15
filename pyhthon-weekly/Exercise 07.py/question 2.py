@@ -8,8 +8,8 @@ def letters_in_one_but_not_both(word1, word2):
     return sorted(set(word1) ^ set(word2))  # Symmetric difference of both sets
 
 # Test the functions
-word1 = input("Enter the first word: ")
-word2 = input("Enter the second word: ")
+word1 = input("Enter  first word: ")
+word2 = input("Enter  second word: ")
 
 print("Letters in either word:", letters_in_either(word1, word2))
 print("Letters in both words:", letters_in_both(word1, word2))
