@@ -1,0 +1,27 @@
+User: sai joshi, Question: i want to know about library, Response: The library is open from 8:30 AM to 9:00 PM everyday.
+User: sai joshi, Question: coffee, Response: The campus coffee bar is open from 7 AM to 5 PM.
+User: sai joshi, Question: hwlp, Response: I am confused forThank you for asking, sai joshi. I値l pass your question to the relevant department.
+User: sai joshi, Question: coffee, Response: The campus coffee bar is open from 7 AM to 5 PM.
+User: sai joshi, Question: 4, Response: Hmmm i did not get that, let me get back to you on that.
+User: sai, Question: coffee, Response: The campus coffee shop is open from 7 AM to 5 PM.
+User: sai, Question: asa, Response: Hmmm i did not get that, please be clear.
+User: sai, Question: sa, Response: Hmmm i did not get that, please be clear.
+User: sai, Question: s, Response: I'm not sure about that, but I'll find out for you.
+User: sai, Question: as, Response: Hmmm i did not get that, please be clear.
+User: sai, Question: as, Response: Could you clarify your question please?
+User: sai, Question: as, Response: Hmmm i did not get that, please be clear.
+User: sai, Question: a, Response: Could you clarify your question please?
+User: sai, Question: sa, Response: Thank you for asking, sai. I値l pass your question to the relevant department.
+User: sai, Question: s, Response: Thank you for asking, sai. I値l pass your question to the relevant department.
+User: sai, Question: as, Response: Thank you for asking, sai. I値l pass your question to the relevant department.
+User: sai, Question: as, Response: Thank you for asking, sai. I値l pass your question to the relevant department.
+User: sai, Question: asa, Response: I'm not sure about that, but I'll find out for you.
+User: sai, Question: sa, Response: Could you clarify your question please?
+User: sai, Question: s, Response: Could you clarify your question please?
+User: sai, Question: as, Response: I'm not sure about that, but I'll find out for you.
+User: sai, Question: as, Response: I'm not sure about that, but I'll find out for you.
+User: sai, Question: a, Response: Thank you for asking, sai. I値l pass your question to the relevant department.
+User: sai, Question: sa, Response: I'm not sure about that, but I'll find out for you.
+User: sai, Question: sa, Response: I am confused would you clarify a bit?
+User: sai, Question: s, Response: Hmmm i did not get that, please be clear.
+User: sai, Question: as, Response: I am confused would you clarify a bit?
