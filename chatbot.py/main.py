@@ -81,7 +81,7 @@ def question(user_name, user_input): # Function to handle user questions
         "parking": " Parking is beside block A and it is free.",
         "transportation":" The university does not have the transportation facility at the moment",
         "admission": "You can find admission details on our website or contact the admission office.",
-        "admission office" : " You can contact the admisson office on 01-123321",
+        "admission office" : " You can contact the admisson office on 01-987654321",
         "library": "The library is open from 8:30 AM to 9:00 PM everyday.",
         "courses": "We offer a wide range of undergraduate and postgraduate courses. Check our website for details.",
         "website":" Simply search Poppleton university on google and click on the first link."
