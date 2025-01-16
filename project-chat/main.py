@@ -38,6 +38,7 @@ def greet_user(agent_name): # Function to greet the user and get their name
 
 def help(): # Function to show help message
     print("You can ask me any questions about the University of Poppleton.")
+    print("To  visit Admin page just type admin")
     print("To exit the chat, you can type 'bye', 'quit', 'exit', or any similar word.")
     print("If you need help, just type 'help'.")
 

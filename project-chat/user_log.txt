@@ -1,0 +1,2 @@
+User: sai, Question: coffee, Response: The campus coffee shop is open from 7 AM to 5 PM.
+User: sai, Question: stop, Response: I am confused would you clarify a bit?
